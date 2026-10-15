@@ -21,8 +21,11 @@ Case study assignment: Implementing Fibonacci series using recursion, iteration,
 
 - Recommendation:
 Dynamic Programming is the most suitable approach for the company’s reward system because it balances speed, scalability, and memory efficiency.
+Memoization improves recursion by caching results.
 
----
+Tabulation  is iterative and more efficient for large inputs.
 
- Conclusion
+For the loyalty reward system, tabulation is preferred because it avoids recursion overhead and scales better.
+
+
 This case study demonstrates that while recursion is conceptually simple, it is impractical for large inputs. Iteration improves efficiency, but Dynamic Programming provides the best balance of performance and scalability, making it the recommended solution for real-world loyalty reward systems.
